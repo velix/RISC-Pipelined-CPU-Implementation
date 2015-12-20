@@ -1,0 +1,17 @@
+.*.bak
+.asm.rpt
+.done
+.fit.*
+.*.rpt
+.*.summary
+.pin
+.qpf
+.qsf
+.qws
+.tcl
+
+
+
+.pdf
+.png
+.jpg
