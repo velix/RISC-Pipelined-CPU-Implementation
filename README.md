@@ -1,0 +1,1 @@
+This is a simple implementation of a 16bit RISC pipelined CPU architecture, based loosely on MIPS. It runs on a n Altera DE II board
